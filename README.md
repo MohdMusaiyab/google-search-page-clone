@@ -4,7 +4,7 @@ This project is a simple clone of the Google search page, built using HTML, CSS,
 
 ## Demo
 
-You can see a live demo of the project [here](#).
+You can see a live demo of the project  [https://google-search-page-clone.onrender.com/](https://google-search-page-clone.onrender.com/).
 
 ## Features
 
@@ -33,4 +33,7 @@ Once you have the project running locally, you can interact with it just like yo
 4. Click on a search result to view the full content.
 
 Feel free to modify the HTML, CSS, and JavaScript files to customize the clone according to your preferences.
+## Deployment
+The site is deployed and accessible online at [https://google-search-page-clone.onrender.com/](https://google-search-page-clone.onrender.com/). You can visit the link to explore the functionality and design.
+
 
